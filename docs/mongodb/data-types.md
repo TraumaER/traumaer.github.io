@@ -1,5 +1,8 @@
 ---
-layout: default title: Data Types parent: MongoDB nav_order: 2
+layout: default 
+title: Data Types 
+parent: MongoDB 
+nav_order: 2
 ---
 
 # Data Types
