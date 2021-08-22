@@ -1,3 +1,10 @@
+---
+layout: default
+title: Concepts
+parent: MongoDB
+nav_order: 1
+---
+
 # Concepts
 
 ## Document
