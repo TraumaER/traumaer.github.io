@@ -59,4 +59,3 @@ let foo = {x: function(){/* ... */}}
   * random value
   * counter starting at random value (avoids collisions across machines)
 * First nine bytes of the id guarantee uniqueness across machines and processes for a single second
-* 
